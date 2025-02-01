@@ -2,7 +2,7 @@
 Full Stack Developer | MERN Stack Enthusiast | Web3 Explorer
 
 **Contact:** NitinChakrawarti04@gmail.com | (+91) 8305978738  
-**Links:** [LinkedIn](https://linkedin.com/in/NitinChakrawarti) | [GitHub](https://github.com/nitinchakrawarti) | [Discord](https://discord.gg/cubrish_)
+**Links:** [LinkedIn](https://linkedin.com/in/NitinChakrawarti) | [GitHub](https://github.com/nitinchakrawarti) |
 
 ---
 
