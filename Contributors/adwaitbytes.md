@@ -1,96 +1,60 @@
-# 🚀 Adwait Keshari
+# Adwait Keshari
 
-🎯 **Aspiring Entrepreneur | Developer | Data Analyst**  
-🌐 **Passionate about Open Source, Web3, and Data-Driven Innovation**
+## Contact & Socials
+- **GitHub**: [Adwaitbytes](https://github.com/Adwaitbytes)
+- **LinkedIn**: [Adwait Keshari](https://www.linkedin.com/in/adwait-keshari-b5793b294)
+- **Twitter**: [Adwait Keshari](https://twitter.com/AdwaitKeshari)
+- **Website/Portfolio**: [Adwait's Portfolio](https://adwait-portfolio.com)
 
-## 🏫 Education
+## Summary
+Aspiring entrepreneur, developer, and data analyst with a strong passion for open-source, Web3, and data-driven innovation. Experienced in content strategy, blockchain applications, and technical development.
 
-- **Bachelor of Science in Programming and Data Science**  
-  *Indian Institute of Technology Madras (IITM)*  
-  *2023 - Present*  
-  Pursuing a comprehensive program focusing on programming, data analysis, and computational thinking.
+## Experience
 
-## 🏆 Achievements
+- **Content and Media Manager** – *Aarambh Labs*  
+  Spearheaded content strategy and media outreach to promote innovative projects.
 
-- **Content and Media Manager at Aarambh Labs**  
-  Spearheading content strategy and media outreach to promote innovative projects.
-
-- **Secured 5th position on IIT Madras Hackathon**
-  Secured 5th postion on the Hacksprint Hackathon Organised by IIT Madras.
-
-- **City Coordinator at IITM Boundless Club - Bhopal**  
+- **City Coordinator** – *IITM Boundless Club, Bhopal*  
   Coordinated events and initiatives, fostering community engagement and learning.
 
-- **Conducted Arduino Workshop for IITM Sahyog Club**  
+- **Arduino Workshop Leader** – *IITM Sahyog Club*  
   Led hands-on sessions, enhancing participants' understanding of hardware programming.
 
-- **Selected for Accenture Innovation Challenge 2024**  
-  Recognized for innovative solutions and problem-solving skills in a competitive environment.
+## Projects
 
+- **Secure Stream Content Protection**  
+  Created a platform to secure media on the blockchain. Users receive unique transaction hashes and watermarks to prove ownership.  
 
-## 🔥 Skills & Tech Stack
+- **Web3 Pathfinder Personal Assistant**  
+  Built an AI-powered assistant to help users navigate the Web3 ecosystem efficiently, providing real-time insights and guidance.  
+  [Live Demo](https://web3-pathfinder-personal-assistant.vercel.app/)
 
-### **Programming**
+- **Social Tipping Platform**  
+  Developed a decentralized platform for seamless peer-to-peer tipping for creators using blockchain, ensuring transparency and lower transaction fees.  
+  [Live Demo](https://6xyvgbiwlpos4hwm.vercel.app/)
 
-- **Languages**: Python 🐍 | C++ ⚡ | SQL 🗄️  
-- **Concepts**: Data Structures & Algorithms
+- **Quote Generator and Pusher Website**  
+  Created a platform to generate and share inspiring quotes dynamically.  
+  [Live Demo](https://quote-generator-and-pusher-website.vercel.app/)
 
-### **Tools & Frameworks**
+- **Medical Store Sales Analysis**  
+  Analyzed daily sales and customer behavior in a medical shop to identify patterns affecting revenue.
 
-- **Version Control**: Git & GitHub  
-- **Documentation**: Markdown  
-- **Operating Systems**: Linux, Windows
+## Technical Skills
+- **Programming Languages**: Python, C++, SQL
+- **Frameworks & Tools**: Git, GitHub, Markdown, Linux, Windows
+- **Web3 & Blockchain**: Solidity, Ethereum, Solana, Blinkord
 
-### **Web3 & Blockchain**
+## Education
+- **Bachelor of Science in Programming and Data Science**  
+  *Indian Institute of Technology Madras (IITM)*  
+  *2023 - Present*
 
-- **Smart Contracts**: Solidity  
-- **Blockchain Platforms**: Ethereum, Solana, Blinkord  
-- **Decentralized Applications (dApps)**
+## Achievements
+- Secured 5th position at IIT Madras Hackathon
+- Selected for Accenture Innovation Challenge 2024
 
-## 📊 Projects
+## Certifications
+- **IIT Madras** - Foundation Level in BS Degree  
+  More certifications available on [LinkedIn](https://www.linkedin.com/in/adwait-keshari-b5793b294)
 
-### 🔐 Secure Stream Content Protection 
-
-- **Objective**: Create a platform to secure your media in Blockchain.
-- **Outcome**: Users can now securely store their content on blockchain and receive unique transaction hashes and watermarks to confidently prove their ownership.
-
-### 🧭 Web3 Pathfinder Personal Assistant  
-
-- **Objective**: Built an AI-powered assistant to help users navigate the Web3 ecosystem efficiently.  
-- **Outcome**: Provides real-time insights, guides users through blockchain applications, and simplifies interaction with decentralized platforms.  
-
-🔗 **Live Demo**: [Web3 Pathfinder Personal Assistant](https://web3-pathfinder-personal-assistant.vercel.app/)  
-
- ### 💰 Social Tipping Platform  
-
-- **Objective**: Developed a decentralized platform to enable seamless peer-to-peer tipping for creators using blockchain technology.  
-- **Outcome**: Users can send and receive tips securely, ensuring **transparency, immutability, and lower transaction fees** compared to traditional tipping methods.  
-
-🔗 **Live Demo**: [Social Tipping Platform](https://6xyvgbiwlpos4hwm.vercel.app/)  
-
-### 📝 Quote Generator and Pusher Website  
-
-- **Objective**: Developed a platform to generate and push inspiring quotes dynamically.  
-- **Outcome**: Users can receive randomly generated quotes and share them easily across different platforms.  
-
-🔗 **Live Demo**: [Quote Generator and Pusher Website](https://quote-generator-and-pusher-website.vercel.app/)  
-
- ### 🏥 Medical Store Sales Analysis
-
-- **Objective**: Analyze daily sales and customer behavior in a medical shop.  
-- **Outcome**: Identified patterns affecting revenue, leading to strategic improvements.
-
-## 🏅 Certifications & Courses
-
-- **IIT Madras - Foundation Level in BS Degree**  
-  Completed coursework in computer science fundamentals, strengthening technical skills.
-
-- **More Certifications**: Available on my [LinkedIn](https://www.linkedin.com/in/adwait-keshari-b5793b294).
-
-
-## 📬 Contact & Socials
-
-- **GitHub**: [Adwaitbytes](https://github.com/Adwaitbytes)  
-- **LinkedIn**: [Adwait Keshari](https://www.linkedin.com/in/adwait-keshari-b5793b294)  
-- **Twitter**: [Adwait Keshari](https://x.com/AdwaitKeshari)
-- **Website/Portfolio**: [Adwait's Portfolio](https://adwaitbytes.github.io/)
