@@ -1,8 +1,5 @@
 # Ansh Chouksey
 
-<!--   -->
-![]()
-
 # anshchouksey08@gmail.comï GitHub Portfolio Leetcode GeeksForGeeks
 
 Education
