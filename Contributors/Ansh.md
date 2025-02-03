@@ -20,7 +20,7 @@ Koderbox TechnologiesMay 2023 – August 2023Software Engineer InternRemote
 
 ## Projects
 
-Resume Canvas | React.JS ,Bootstrap, Chakra UI, Javascript[ Github ] [ Live ]
+Resume Canvas | React.JS ,Bootstrap, Chakra UI, Javascript 
 
 • Developed a dynamic resume canvas web application enabling users to create, edit, and customize resumes using React
 
@@ -30,7 +30,7 @@ Resume Canvas | React.JS ,Bootstrap, Chakra UI, Javascript[ Github ] [ Live ]
 
 • The Resume Canvas includes functionalities such as the ability to add, edit, and remove sections, ensuring fexibility in tailoring resumes to individual needs.
 
-Fig Pro | Next.JS , Tailwind CSS, Typescript, Liveblocks [ Github ] [ Live ]
+Fig Pro | Next.JS , Tailwind CSS, Typescript, Liveblocks 
 
 • Collaborative Online Design Platform is a project aimed at providing users with a seamless experience for creating,editing, and collaborating on design projects in real-time.
 
