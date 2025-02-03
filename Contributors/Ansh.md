@@ -1,6 +1,6 @@
 # Ansh Chouksey
 
-# anshchouksey08@gmail.comï GitHub Portfolio Leetcode GeeksForGeeks
+ `anshchouksey08@gmail.com` [GitHub](https://github.com/ansh04196) [Portfolio](https://ansh-chouksey.vercel.app/) [Leetcode](https://leetcode.com/u/AnshChouksey/) 
 
 Education
 
@@ -20,7 +20,7 @@ Koderbox TechnologiesMay 2023 – August 2023Software Engineer InternRemote
 
 ## Projects
 
-Resume Canvas | React.JS ,Bootstrap, Chakra UI, Javascript 
+Resume Canvas | React.JS ,Bootstrap, Chakra UI, Javascript   [Source Code](https://github.com/ansh04196/Resume-Builder)
 
 • Developed a dynamic resume canvas web application enabling users to create, edit, and customize resumes using React
 
@@ -30,7 +30,7 @@ Resume Canvas | React.JS ,Bootstrap, Chakra UI, Javascript
 
 • The Resume Canvas includes functionalities such as the ability to add, edit, and remove sections, ensuring fexibility in tailoring resumes to individual needs.
 
-Fig Pro | Next.JS , Tailwind CSS, Typescript, Liveblocks 
+Fig Pro | Next.JS , Tailwind CSS, Typescript, Liveblocks    [Source Code](https://github.com/ansh04196/Fig-Pro)
 
 • Collaborative Online Design Platform is a project aimed at providing users with a seamless experience for creating,editing, and collaborating on design projects in real-time.
 
