@@ -12,23 +12,26 @@ Passionate full-stack web developer specializing in the MERN stack. Skilled in b
 ---
 
 
-## EXPERIENCE
+## EXPERIENCE  
 
-### Tech Team Member – E-Cell, [Your College Name]
+### Tech Team Member – E-Cell, RGPV  
 *May 2024 – Present | Bhopal*  
-- Collaborated with a team to develop and maintain web applications for E-Cell utils.  
+- Developed **E-Scanify**, **Treasure Hunt**, and event utility tools.  
+- **Challenges & Outcomes:**  
+  - **Treasure Hunt:** Scaled the system to handle a high volume of simultaneous requests.  
+  - **E-Scanify:** Optimized bulk certificate generation and automated mass email delivery.  
 
-### Freelance Web Developer
+### Freelance Web Developer  
 *2023 – Present | Remote*  
-- Developed and deployed  web applications for clients using the MERN stack. 
+- Designed, developed, and deployed web applications using the **MERN stack**.  
+- Built websites for clients, including **Taste of Amritsar** and other online businesses.  
 
 
 ---
 
 ## PROJECTS
 
-### [soZial]
-*Duration: MM/YYYY – MM/YYYY*  
+### [soZial] 
 - **Description:** soZail is a social media platform where users can share their life , connect and interact with other users on platform.
 - **Link:** [https://github.com/TiwariSudhanshu/soZial](#)
 
@@ -60,7 +63,3 @@ Passionate full-stack web developer specializing in the MERN stack. Skilled in b
 
 
 ---
-
-## ACHIEVEMENTS
-- [Highlight key achievements such as hackathon wins, open source contributions, or significant projects.]
-- [Include any relevant accolades or recognitions.]
