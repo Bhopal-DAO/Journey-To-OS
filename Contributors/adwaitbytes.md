@@ -49,25 +49,36 @@
 
 ## 📊 Projects
 
-### 🏥 Medical Store Sales Analysis
-
-- **Objective**: Analyze daily sales and customer behavior in a medical shop.  
-- **Outcome**: Identified patterns affecting revenue, leading to strategic improvements.
-
-### 🗳️ Election Data Scraper
-
-- **Objective**: Develop a web scraper to extract real-time election data.  
-- **Outcome**: Automated data collection, facilitating timely analysis.
-
-### 🤖 Fake News Detector (Malayalam)
-
-- **Objective**: Build an NLP-based classification model to detect fake news.  
-- **Outcome**: Categorized news as False, Partly False, Mostly True, etc., enhancing information credibility.
-
 ### 🔐 Secure Stream Content Protection 
 
 - **Objective**: Create a platform to secure your media in Blockchain.
 - **Outcome**: Users can now securely store their content on blockchain and receive unique transaction hashes and watermarks to confidently prove their ownership.
+
+### 🧭 Web3 Pathfinder Personal Assistant  
+
+- **Objective**: Built an AI-powered assistant to help users navigate the Web3 ecosystem efficiently.  
+- **Outcome**: Provides real-time insights, guides users through blockchain applications, and simplifies interaction with decentralized platforms.  
+
+🔗 **Live Demo**: [Web3 Pathfinder Personal Assistant](https://web3-pathfinder-personal-assistant.vercel.app/)  
+
+ ### 💰 Social Tipping Platform  
+
+- **Objective**: Developed a decentralized platform to enable seamless peer-to-peer tipping for creators using blockchain technology.  
+- **Outcome**: Users can send and receive tips securely, ensuring **transparency, immutability, and lower transaction fees** compared to traditional tipping methods.  
+
+🔗 **Live Demo**: [Social Tipping Platform](https://6xyvgbiwlpos4hwm.vercel.app/)  
+
+### 📝 Quote Generator and Pusher Website  
+
+- **Objective**: Developed a platform to generate and push inspiring quotes dynamically.  
+- **Outcome**: Users can receive randomly generated quotes and share them easily across different platforms.  
+
+🔗 **Live Demo**: [Quote Generator and Pusher Website](https://quote-generator-and-pusher-website.vercel.app/)  
+
+ ### 🏥 Medical Store Sales Analysis
+
+- **Objective**: Analyze daily sales and customer behavior in a medical shop.  
+- **Outcome**: Identified patterns affecting revenue, leading to strategic improvements.
 
 ## 🏅 Certifications & Courses
 
