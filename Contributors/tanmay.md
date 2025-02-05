@@ -14,17 +14,34 @@ Tech enthusiast with experience in React, Firebase, and Ethereum smart contracts
 - **Blockchain:** Ethereum, MetaMask, IPFS (Pinata)
 - **Tools & Platforms:** Git, Figma, Google Cloud, Firebase
 
-## Experience
+## Projects/Experience
 
 #### The Debugging Society TDS | Web Developer (2024-Present)
 
+- Building Alumni Website for the society
+- Collaborating with fellow members
+- Used Shadcn for UI Components
+
 #### Hackethix - Ethical Hacking | Core Member (2023-Present)
 
-#### Project: 'Ticketing' | Blockchain Event Booking Platform
+- Used **React** for frontend
+- Created a **CTF**(Capture the Flag) website
+- Successfully hosted CTF, attracting participation from fellow cybersecurity enthusiasts.
+
+#### [Project: Ticketing | Blockchain Event Booking Platform](https://ticketing-aia.teamkamikaze.me)
 
 - Developed a **React** frontend with **Firebase** as the backend.
 - Implemented **MetaMask & Web3 wallet** integration for NFT-based ticketing.
 - Designed a **decentralized AI chatbot** using Gaianet.ai.
+
+#### [Project: Pokeapi | The Ultimate Pokedex](https://pokeapi-eight-phi.vercel.app/)
+
+- Utilised Local Storage for optimisation
+- Used [pokeapi](https://pokeapi.co/)
+- Responsive Design
+- PWA (Progressive WebApp)
+- Pokemon filtering based on type or name
+- Pagination (Coming Soon)
 
 ## Education
 
