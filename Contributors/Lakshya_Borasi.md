@@ -45,7 +45,7 @@ Jul 2024 - Jul 2024
 ### School Management System
 - Implemented user management (students, teachers, admin) with role-based access control.
 - Managed data for attendance, fees, schedules, and notifications.
-- **Technology Used:** React, MongoDB, Express.js, Node.js  
+- **Technology Used:** React JS, MongoDB, Express.js, Node.js  
 📌 [GitHub Repository](https://github.com/targetlakshya/Mern-School-Management)
 
 ## Certifications
