@@ -2,7 +2,7 @@
 Full Stack Developer | MERN Stack Enthusiast | Web3 Explorer
 
 **Contact:** NitinChakrawarti04@gmail.com 
-**Links:** [LinkedIn](https://linkedin.com/in/NitinChakrawarti) | [GitHub](https://github.com/nitinchakrawarti) |
+**Links:** [LinkedIn](https://linkedin.com/in/NitinChakrawarti) | [GitHub](https://github.com/nitinchakrawarti) | [X(Twitter)](https://x.com/nitinchakarawar)
 
 ---
 
@@ -50,6 +50,7 @@ const developer = {
 ## Projects
 
 **Margdarshak | Career Assistance Platform**
+[Live link](https://maargdarshak.vercel.app/) | [Repo link](https://github.com/NitinChakrawarti/Margdarshak)
 ```javascript
 {
   "techStack": ["React JS", "Redux Toolkit", "Tailwind", "Express JS", "Node JS"],
@@ -63,6 +64,7 @@ const developer = {
 ```
 
 **Tasty Bites | Restaurant Website**
+[Live link](https://easydev-resto.vercel.app/) | [Repo link](https://github.com/NitinChakrawarti/Restaurant_Website)
 ```javascript
 {
   "techStack": ["React JS", "Tailwind", "Express JS", "Node JS"],
@@ -76,6 +78,7 @@ const developer = {
 ```
 
 **Dragon Academy | Hackathon Project**
+[Live link](https://dragon-academy.vercel.app/) | [Repo link](https://github.com/NitinChakrawarti/Dragon-Academy)
 ```javascript
 {
   "techStack": ["HTML5", "CSS3", "Javascript", "ParticleJS"],
@@ -108,8 +111,10 @@ const developer = {
 * MongoDB, MongoDB Atlas
 
 ## Certifications
-* Postman API Fundamentals Student Expert
-* Introduction to MongoDB
+* Postman API Fundamentals Student Expert: [Link](https://badgr.com/public/assertions/yU3pnQ8OSYS0idLyAIxinA?identity__email=nitinchakrawarti04%40gmail.com)
+* Introduction to MongoDB: [Link](https://learn.mongodb.com/c/ivQ2s8kRRR2T_g9R56UPKg)
+* Contributor GSSoC'24: [Link](https://www.linkedin.com/in/nitinchakrawarti/details/certifications/1723766930741/single-media-viewer/?type=IMAGE&profileId=ACoAAEPOyqUBocqELZ7MqcJyBnP8bixU5CW1dN0)
+
 
 ## Languages
 * English (Professional Working Proficiency)
